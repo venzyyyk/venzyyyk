@@ -1,0 +1,6 @@
+[2025-01-01 10:00:01] [INFO] User login failed from 192.168.1.10
+[2025-01-01 10:00:15] [INFO] User login failed from 192.168.1.10
+[2025-01-01 10:00:25] [INFO] User login failed from 192.168.1.10
+[2025-01-01 10:00:40] [INFO] User login failed from 192.168.1.10
+[2025-01-01 10:00:55] [INFO] User login failed from 192.168.1.10
+[2025-01-01 10:01:10] [ERROR] Authentication service timeout for 192.168.1.10
